@@ -42,7 +42,7 @@ CreditSea is a premium, modern Loan Management System designed to make credit ac
 3. The `.env` file should have the following values loaded:
    ```env
    PORT=5000
-   MONGO_URI=mongodb+srv://dhruvgupta9713_db_user:Dhruv%401234@cluster0.p754fje.mongodb.net/lms?appName=Cluster0
+   MONGO_URI="moongourl"
    JWT_SECRET=supersecretjwtsecretkeyfortesting123
    ```
 4. Start the backend development server:
